@@ -1,7 +1,6 @@
 <h1> Hi there I'm Jeon 👋 </h1>
 
-<!--
-**JeonHyunS/JeonHyunS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> JeonHyunS/JeonHyunS** is a ✨ _special_ ✨ </h2>
 <h3> About Me </h3>
 
 - 🔭 &nbsp; I’m currently working on Car Simulation with Car Dynamics
